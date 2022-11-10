@@ -15,5 +15,6 @@ This is Zuri week 6 and 7 task to build image carousel
 ## Live website
 
 Image Slider [Live website](https://linktoyinka.github.io/week-6-and-7)
+url [https://linktoyinka.github.io/week-6-and-7](https://linktoyinka.github.io/week-6-and-7)
 
  
